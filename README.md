@@ -84,6 +84,7 @@ docker push danielagar320/parcial:latest
 
 ![img_5.png](img_5.png)
 
+* Probamos el servicio con el DNS de la instancia
 
-
+![img_6.png](img_6.png)
 
